@@ -8,4 +8,4 @@
 - Кирилл Алексеев (https://github.com/Miracle365)
 - Игорь Семенов (https://github.com/XJIEBYUJEK)
 - Андрей Фомин (https://github.com/HSEc0der)
-- Константин Синицын (https://github.com/Archrahkshi)
+- Константин Смирнов (https://github.com/Archrahkshi)
