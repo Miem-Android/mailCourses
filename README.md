@@ -14,10 +14,10 @@
 
 ## Команда авторов
 
-- [Никита Куликов](https://github.com/LionZXY)
-- [Олег Морозенков](https://github.com/reo7sp)
-- [Михаил Волынов](https://github.com/StealthTech)
-- [Юрий Голубев](https://github.com/Ansile)
+- [Кирилл Алексеев](https://github.com/LionZXY)
+- [Константин Синицын](https://github.com/reo7sp)
+- [Андрей Фомин](https://github.com/StealthTech)
+- [Игорь Семенов](https://github.com/Ansile)
 ```
 Как это выглядит можно глянуть [тут](https://gist.github.com/LionZXY/a6c7439da96172ec68a09f225818b73a)
 
